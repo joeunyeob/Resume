@@ -51,6 +51,10 @@
 ---
 #### VendingMachine
 
+<img src="https://github.com/joeunyeob/Resume/blob/master/images/VendingMachine/%EB%A9%94%EC%9D%B8.png" alt="메인" style="zoom:25%;" />
+
+<img src="https://github.com/joeunyeob/Resume/blob/master/images/VendingMachine/%EC%B0%A8%ED%8A%B8.png" alt="차트" style="zoom:25%;" />
+
 - https://github.com/joeunyeob/django-vendingmachine
 - 개인 토이프로젝트
 - 개발언어: Python3, HTML3, CSS, Bootstrap
