@@ -28,11 +28,9 @@
 ---
 #### 딥러닝 기반 봉사활동 추천 시스템
 
-<img src="./images/capstone/크롤링.png" alt="크롤링" style="zoom:25%;" />
+<img src="https://github.com/joeunyeob/Resume/blob/master/images/capstone/REST.png" alt="REST" style="zoom:25%;" />
 
-<img src="./images/capstone/REST.png" alt="REST" style="zoom:25%;" />
-
-![완성도-server](./images/capstone/완성도-server.png)
+![완성도-server](https://github.com/joeunyeob/Resume/blob/master/images/capstone/%EC%99%84%EC%84%B1%EB%8F%84-server.png)
 
 <img src="./images/capstone/REST.png" alt="REST" style="zoom:25%;" />
 
