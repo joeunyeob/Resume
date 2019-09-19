@@ -28,11 +28,11 @@
 ---
 #### 딥러닝 기반 봉사활동 추천 시스템
 
-<img src="/Users/jo-eun-yeob/Workspace/TIL/Resume/images/capstone/크롤링.png" alt="크롤링" style="zoom:25%;" />
+<img src="../Resume/images/capstone/크롤링.png" alt="크롤링" style="zoom:25%;" />
 
-![완성도-server](/Users/jo-eun-yeob/Workspace/TIL/Resume/images/capstone/완성도-server.png)
+![완성도-server](../Resume/images/capstone/완성도-server.png)
 
-<img src="/Users/jo-eun-yeob/Workspace/TIL/Resume/images/capstone/REST.png" alt="REST" style="zoom:25%;" />
+<img src="../Resume/images/capstone/REST.png" alt="REST" style="zoom:25%;" />
 
 - https://github.com/joeunyeob/DRF-API
 - 기간: 2019.02 ~ 
