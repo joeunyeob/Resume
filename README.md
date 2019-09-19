@@ -30,6 +30,8 @@
 
 <img src="./images/capstone/크롤링.png" alt="크롤링" style="zoom:25%;" />
 
+<img src="./images/capstone/REST.png" alt="REST" style="zoom:25%;" />
+
 ![완성도-server](./images/capstone/완성도-server.png)
 
 <img src="./images/capstone/REST.png" alt="REST" style="zoom:25%;" />
